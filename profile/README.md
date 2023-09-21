@@ -1,4 +1,4 @@
-# Willkommen im Prototyping Lab der Hochschule für Gestaltung (HfG) Schwäbisch Gmünd!
+# Willkommen im Prototyping Lab der Hochschule für Gestaltung (HfG) Schwäbisch Gmünd! 🚀
 
 ## Über uns: Das Prototyping Lab
 
@@ -22,6 +22,6 @@ Das Prototyping Lab an der HfG Schwäbisch Gmünd ist der ideale Ort für Studie
 
 ## Besuche uns!
 
-Wir laden dich herzlich ein, das Prototyping Lab der HfG Schwäbisch Gmünd zu besuchen und mehr über unsere Möglichkeiten zu erfahren. Zusammen können wir die Welt des IoT erkunden und gemeinsam an aufregenden Projekten arbeiten.
+Studierende sind jederzeit herzlich willkommen, das Prototyping Lab der HfG Schwäbisch Gmünd zu besuchen und mehr über unsere Möglichkeiten zu erfahren. Zusammen können wir die Welt des IoT erkunden und gemeinsam an aufregenden Projekten arbeiten. Besuche einfach unser Lab, um loszulegen!
 
-Kontaktiere uns, um einen Termin zu vereinbaren oder besuche unsere GitHub-Organisation, um mehr über unsere Projekte und Ressourcen zu erfahren. Lass uns gemeinsam die Zukunft des IoT gestalten!
+Schau auch in unsere GitHub-Organisation, um mehr über unsere Projekte und Ressourcen zu erfahren. Lass uns gemeinsam die Zukunft des IoT gestalten! 🌟
